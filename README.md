@@ -6,7 +6,7 @@ I make mostly computer art but also sometimes I paint and record music.
 
 ![Bonus and Wily](https://jimkang.com/paintings/media/bonus-and-wily-800.jpg)
 
-Here's where you can check out what I do: [jimkang.com](https://jimkang.com)
+**Here's where you can check out what I do: [jimkang.com](https://jimkang.com)**
 
 <!--
 **jimkang/jimkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
